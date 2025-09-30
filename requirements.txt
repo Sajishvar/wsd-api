@@ -1,9 +1,10 @@
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
 stanza==1.5.1
-pyiwn==0.1.0
+pyiwn==0.0.5
 scikit-learn==1.5.1
 numpy==1.26.4
 # Your original libs (note: googletrans is unreliable on servers; we omit it here
 # because current core does not use it. Add if you really need)
 # googletrans==4.0.0-rc1
+
